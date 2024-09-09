@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nishant</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+- 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently learning **DSA & Back-End**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Nishant9771](https://github.com/Nishant9771)
+
+- 💬 Ask me about **Java, Frontend & Back-End Development**
+
+- 📫 How to reach me **nishantparmar8298@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nishantsingh9771) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishantsingh9771) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant8789) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nishantsingh9771) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nishant9771) 
